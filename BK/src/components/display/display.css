@@ -1,0 +1,47 @@
+
+
+.product-container {
+    display: flex;
+    align-items: flex-start;
+}
+
+.product-image {
+    width: 50%; /* Adjust as needed */
+    margin-right: 20px; /* Adjust as needed */
+}
+
+.product-details {
+    flex-grow: 1;
+}
+.product-image {
+    width: 17%;
+    margin-right: 83px;
+}
+
+
+button {
+    background-color: #2539d0; /* Green */
+    border: none;
+    color: rgb(1, 1, 1);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #198eb5;
+}
+
+.rent-button {
+    background-color: #198eb5; /* Blue */
+    border: none;
+    color: rgb(136, 13, 13);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
